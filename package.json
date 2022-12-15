@@ -1,0 +1,23 @@
+{
+  "name": "@anoesj/eslint-config-anoesj-vue",
+  "version": "0.1.0",
+  "description": "Default ESLint config for Anoesj - Vue edition",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anoesj/eslint-config-anoesj-vue.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Anoesj Sadraee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anoesj/eslint-config-anoesj-vue/issues"
+  },
+  "homepage": "https://github.com/anoesj/eslint-config-anoesj-vue#readme",
+  "peerDependencies": {
+    "eslint": ">= 7"
+  }
+}
